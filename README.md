@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Love Cards [![by](https://img.shields.io/badge/by-Waren%20Gonzaga-fe59ae.svg?longCache=true&labelColor=181717&style=flat-square)](https://warengonzaga.com)
 
 [![maintainer](https://img.shields.io/badge/maintainer-Waren%20Gonzaga-016eea.svg?logo=github&labelColor=181717&longCache=true&style=flat-square)](https://warengonzaga.com) [![star](https://img.shields.io/github/stars/warengonzaga/love-cards.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/love-cards/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/love-cards.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/love-cards/blob/main/license)
@@ -63,3 +64,6 @@ This open source project is developed and maintained by **[Waren Gonzaga](https:
 ---
 
 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [He is Awesome](https://www.youtube.com/watch?v=HHrxS4diLew&t=44s) 🙏
+=======
+# K
+>>>>>>> 97280c0b999479bc5cf6f6560834dfc957efc44d
